@@ -1323,7 +1323,8 @@
  *            https://github.com/olikraus/U8glib_Arduino
  */
 //#define ULTRA_LCD   // Character based
-//#define DOGLCD      // Full graphics display
+#define REPRAP_DISCOUNT_FULL_GRAPHIC_SMART_CONTROLLER
+
 
 /**
  * SD CARD
